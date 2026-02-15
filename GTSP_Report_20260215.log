@@ -1,0 +1,34 @@
+[2026-02-15 14:22:56] ACTION: Application started
+[2026-02-15 14:23:05] ACTION: Opening repository: 03022026/Hidden_Logic
+[2026-02-15 14:23:13] ACTION: Opening repository: 03022026/HidenLogick-Launcher
+[2026-02-15 14:29:22] ACTION: Application started
+[2026-02-15 14:29:26] ACTION: Settings opened
+[2026-02-15 14:29:42] ACTION: Repo: 03022026/HidenLogick-Launcher
+[2026-02-15 14:29:52] ACTION: Settings opened
+[2026-02-15 14:29:56] ACTION: Repo: MultiLauncher/Launcher
+[2026-02-15 14:30:02] ACTION: Logout
+[2026-02-15 14:30:04] ACTION: Authorize clicked
+[2026-02-15 14:30:04] ACTION: ERROR: 401
+[2026-02-15 14:35:39] ACTION: Application started
+[2026-02-15 14:36:06] ACTION: Authorize clicked
+[2026-02-15 14:36:07] ACTION: Sync started
+[2026-02-15 14:36:11] ACTION: Settings opened
+[2026-02-15 14:36:49] ACTION: Repo: 03022026/HidenLogick-Launcher
+[2026-02-15 14:37:00] ACTION: ERROR: Upload 500
+[2026-02-15 14:47:42] ACTION: Notify: Logs exported to file. ()
+[2026-02-15 14:48:50] ACTION: Notify: Invalid Token or Network Error (401/Network)
+[2026-02-15 14:54:35] ACTION: Notify: Logs exported to file. ()
+2026-02-15 14:59:23 - INFO - Application initialized
+2026-02-15 14:59:25 - INFO - Auto-login successful
+2026-02-15 15:06:49 - INFO - Viewing repository: 03022026/Hidden_Logic
+2026-02-15 15:06:56 - INFO - Downloading README.md...
+2026-02-15 15:06:57 - INFO - File downloaded successfully to C:/Users/debil kikin/Documents/Not Same Developer/README.md
+2026-02-15 15:06:57 - INFO - Download complete!
+2026-02-15 15:07:16 - INFO - Viewing repository: 03022026/HidenLogick-Launcher
+2026-02-15 15:07:24 - INFO - Uploading test.txt...
+2026-02-15 15:10:49 - INFO - User logged out
+2026-02-15 15:10:54 - INFO - User authorized manually
+2026-02-15 15:11:05 - INFO - Viewing repository: 03022026/HidenLogick-Launcher
+2026-02-15 15:11:12 - INFO - Uploading test.txt...
+2026-02-15 15:11:13 - INFO - 'test.txt' uploaded!
+2026-02-15 15:11:13 - INFO - Viewing repository: 03022026/HidenLogick-Launcher
